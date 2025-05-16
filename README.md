@@ -109,10 +109,6 @@ Or use the provided `requirements.txt`.
 
 Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss.
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 👤 Created by [Mohammed Jaber](https://github.com/mjaber5) – connect on [LinkedIn](https://www.linkedin.com/in/mohammad-jaber-profile?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
